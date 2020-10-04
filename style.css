@@ -1,0 +1,82 @@
+header {
+    align-items: center;
+    background-color: #fdc2c8;
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+    height: 10%;
+    font-family: Dancing Script, cursive;
+    font-size: large;
+    color: black;
+}
+
+.content {
+    display: flex;
+    width:100%;
+}
+
+.kaire {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 800px
+}
+
+.desine {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 800px;
+}
+
+.nav {
+    align-items: center;
+    background-color: #d9c6c0;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-items: center;
+    margin: 2px;
+    font-family: Dancing Script, cursive;
+}
+
+.meniu {
+    align-items: center;
+    background-color: #f7e8e3;
+    color: black;
+    display: flex;
+    font-size: 25px;
+    height: 40px;
+    justify-content: center;
+    margin: auto;
+    text-decoration: none;
+    width: 60%;
+}
+
+.ads {
+    background-color: #d7ad9d;
+    height: 50%;
+    margin: 4px 2px;
+    padding: 3px;
+}
+
+.article {
+    background-color: #fdc2c8;
+    height: 90%;
+    margin: 2px;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+    font-family: Playfair Display, serif;
+}
+
+.footer {
+    align-items: center;
+    background-color: #d9c6c0;
+    font-weight: bold;
+    height: 10%;
+    margin: 4px 2px;
+    text-align: right;
+    font-family: Playfair Display, serif;
+    font-size: 20px;
+}
